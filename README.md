@@ -19,6 +19,7 @@ Sou um SysAdmin com 20 anos de experiência em TI, especializado em ambientes Li
 ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins)
 ![SonarQube](https://img.shields.io/badge/-SonarQube-black?style=flat-square&logo=sonarqube)
 ![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat-square&logo=terraform)
+![Vagrant](https://img.shields.io/badge/-Vagrant-black?style=flat-square&logo=vagrant)
 
 ## Estatísticas do GitHub
 ![SeuNomeDeUsuário GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabiosleal2712&show_icons=true)
