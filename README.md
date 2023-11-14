@@ -3,7 +3,7 @@
 ## Sobre Mim
 Sou um SysAdmin com 20 anos de experiência em TI, especializado em ambientes Linux e Windows. Apaixonado por infraestrutura de rede e entusiasta da cultura DevOps.
 
-- 🌱 Atualmente aprofundando meus conhecimentos em **Kubernetes e Grafana**.
+- 🌱 Atualmente aprofundando meus conhecimentos em **Pipeline e IaC**.
 - 👯 Colaboro em **projetos relacionados a infraestrutura e DevOps**.
 - 💬 Pergunte-me sobre **AWS, Azure, GCP, Jenkins, SonarQube** e **Linux/Windows Server**.
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/fabiosleal2712/)
