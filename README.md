@@ -18,6 +18,7 @@ Sou um SysAdmin com 20 anos de experiência em TI, especializado em ambientes Li
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins)
 ![SonarQube](https://img.shields.io/badge/-SonarQube-black?style=flat-square&logo=sonarqube)
+![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat-square&logo=terraform)
 
 ## Estatísticas do GitHub
 ![SeuNomeDeUsuário GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabiosleal2712&show_icons=true)
@@ -28,4 +29,4 @@ Sou um SysAdmin com 20 anos de experiência em TI, especializado em ambientes Li
 
 ---
 
-⭐️ From fabiosleal2712(https://github.com/fabiosleal2712)
+⭐️ From [fabiosleal2712](https://github.com/fabiosleal2712)
