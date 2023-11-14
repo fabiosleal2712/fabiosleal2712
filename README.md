@@ -1,24 +1,26 @@
-# Olá, eu sou o Fabio! 👋
+# Olá, eu sou Fabio! 👋
 
 ## Sobre Mim
-Sou um programador apaixonado por tecnologia e inovação. Especializado em desenvolvimento web e sempre explorando novas ferramentas e linguagens.
+Sou um SysAdmin com 20 anos de experiência em TI, especializado em ambientes Linux e Windows. Apaixonado por infraestrutura de rede e entusiasta da cultura DevOps.
 
-- 🌱 Atualmente estou aprendendo **React** e **Node.js**.
-- 👯 Busco colaborar em **projetos open source** relacionados a desenvolvimento web.
-- 💬 Pergunte-me sobre **JavaScript, HTML, CSS** e **Python**.
-- 📫 Como me encontrar: [LinkedIn](LINK_DO_SEU_LINKEDIN)
+- 🌱 Atualmente aprofundando meus conhecimentos em **Kubernetes e Grafana**.
+- 👯 Colaboro em **projetos relacionados a infraestrutura e DevOps**.
+- 💬 Pergunte-me sobre **AWS, Azure, GCP, Jenkins, SonarQube** e **Linux/Windows Server**.
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/fabiosleal2712/)
 
 ## Tecnologias e Ferramentas
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
+![Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=microsoftazure)
+![GCP](https://img.shields.io/badge/-GCP-black?style=flat-square&logo=googlecloud)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![Windows Server](https://img.shields.io/badge/-Windows%20Server-black?style=flat-square&logo=windows)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
+![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins)
+![SonarQube](https://img.shields.io/badge/-SonarQube-black?style=flat-square&logo=sonarqube)
 
 ## Estatísticas do GitHub
-![SeuNomeDeUsuário GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true)
+![SeuNomeDeUsuário GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabiosleal2712&show_icons=true)
 
 ## Projetos em Destaque
 - [Nome do Projeto 1](LINK_DO_PROJETO) - Uma breve descrição do que o projeto faz.
@@ -26,4 +28,4 @@ Sou um programador apaixonado por tecnologia e inovação. Especializado em dese
 
 ---
 
-⭐️ From [SEU_USUARIO](https://github.com/SEU_USUARIO)
+⭐️ From [SEU_USUARIO](https://github.com/fabiosleal2712)
