@@ -25,8 +25,8 @@ Sou um SysAdmin com 20 anos de experiência em TI, especializado em ambientes Li
 ![SeuNomeDeUsuário GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabiosleal2712&show_icons=true)
 
 ## Projetos em Destaque
-- [Nome do Projeto 1](LINK_DO_PROJETO) - Uma breve descrição do que o projeto faz.
-- [Nome do Projeto 2](LINK_DO_PROJETO) - Uma breve descrição do que o projeto faz.
+- [Niu Technology](https://niutechnology.com.br/) - Desenvolvemos Websites, sistemas e  aplicativos.
+
 
 ---
 
