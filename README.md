@@ -28,4 +28,4 @@ Sou um SysAdmin com 20 anos de experiência em TI, especializado em ambientes Li
 
 ---
 
-⭐️ From [SEU_USUARIO](https://github.com/fabiosleal2712)
+⭐️ From fabiosleal2712(https://github.com/fabiosleal2712)
