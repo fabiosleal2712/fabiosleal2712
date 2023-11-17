@@ -1,7 +1,7 @@
 # Olá, eu sou Fabio! 👋
 
 ## Sobre Mim
-Sou um SysAdmin com 20 anos de experiência em TI, especializado em ambientes Linux e Windows. Apaixonado por infraestrutura de rede e entusiasta da cultura DevOps.
+Sou um SysAdmin com 18 anos de experiência em TI, especializado em ambientes Linux e Windows. Apaixonado por infraestrutura de rede e entusiasta da cultura DevOps.
 
 - 🌱 Atualmente aprofundando meus conhecimentos em **Pipeline e IaC**.
 - 👯 Colaboro em **projetos relacionados a infraestrutura e DevOps**.
