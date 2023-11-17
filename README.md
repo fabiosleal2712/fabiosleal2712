@@ -8,7 +8,16 @@ Sou um SysAdmin com 18 anos de experiência em TI, especializado em ambientes Li
 - 💬 Pergunte-me sobre **AWS, Azure, GCP, Jenkins, SonarQube** e **Linux/Windows Server**.
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/fabiosleal2712/)
 
-## Ferramentas que uso:
+
+#### Estou aprendendo sobre:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=maven,dotnet,jenkins,grafana,nginx,kubernetes,vim,ai,postgres,powershell,py" />
+  </a>
+</p>
+</div>
+
+## Serviços e Qualificações:
 <div>
   <a href="https://aws.amazon.com">
     <img src="https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazon-aws" alt="AWS"/>
@@ -43,9 +52,10 @@ Sou um SysAdmin com 18 anos de experiência em TI, especializado em ambientes Li
   <a href="https://www.vagrantup.com">
     <img src="https://img.shields.io/badge/Vagrant-black?style=flat-square&logo=vagrant" alt="Vagrant"/>
   </a>
-</div>
 
-##
+</div>
+  
+  ##
 
 #### Estatísticas:
 <div>
