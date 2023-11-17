@@ -21,8 +21,17 @@ Sou um SysAdmin com 20 anos de experiência em TI, especializado em ambientes Li
 ![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat-square&logo=terraform)
 ![Vagrant](https://img.shields.io/badge/-Vagrant-black?style=flat-square&logo=vagrant)
 
-## Estatísticas do GitHub
-![SeuNomeDeUsuário GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabiosleal2712&show_icons=true)
+
+#### Estatísticas:
+<div>
+<a href="https://github.com/fabiosleal2712">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosleal2712&layout=compact&langs_count=7&theme=radical"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/?username=fabiosleal2712&show_icons=true&include_all_commits=true&theme=radical"/>
+<img loading="lazy" height="153em" src="http://github-readme-streak-stats.herokuapp.com/?user=fabiosleal2712&amp;theme=radical">
+</a>
+</div>
+
+
 
 ## Projetos em Destaque
 - [Niu Technology](https://niutechnology.com.br/) - Desenvolvemos Websites, sistemas e  aplicativos.
