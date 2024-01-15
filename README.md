@@ -6,7 +6,7 @@ Sou um SysAdmin com 18 anos de experiência em TI, especializado em ambientes Li
 - 🌱 Atualmente aprofundando meus conhecimentos em **Pipeline e IaC**.
 - 👯 Colaboro em **projetos relacionados a infraestrutura e DevOps**.
 - 💬 Pergunte-me sobre **AWS, Azure, GCP, Jenkins, SonarQube** e **Linux/Windows Server**.
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/fabiosleal2712/)
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/fabiosleal/)
 
 
 #### Estou aprendendo sobre:
