@@ -52,6 +52,10 @@ Sou um SysAdmin com 18 anos de experiência em TI, especializado em ambientes Li
   <a href="https://www.vagrantup.com">
     <img src="https://img.shields.io/badge/Vagrant-black?style=flat-square&logo=vagrant" alt="Vagrant"/>
   </a>
+  
+  <a href="https://www.vagrantup.com">
+    <img src="https://img.shields.io/badge/sqk-server?style=flat-square&logo=sql-server" alt="SQL"/>
+  </a>
 
 </div>
   
