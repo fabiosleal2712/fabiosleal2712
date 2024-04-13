@@ -75,6 +75,7 @@ Sou um SysAdmin com 18 anos de experiência em TI, especializado em ambientes Li
 
 ## Projetos em Destaque
 - [Niu Technology](https://niutechnology.com.br/) - Desenvolvemos Websites, sistemas e  aplicativos.
+- [Niu Living](https://niuliving.com.br/)
 
 
 ---
